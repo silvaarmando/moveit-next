@@ -66,4 +66,4 @@ The technologies used until then in the construction of the project:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## : octocat:**ABOUT ME**
+## <img src="https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/octocat-github-emojipedia.png" width="30px" height="30px"> **ABOUT ME**
