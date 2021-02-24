@@ -34,11 +34,6 @@
     TECHS
   </a>&nbsp;&nbsp; • &nbsp;&nbsp;
   <a
-    href="#roadmap"
-  >
-    ROAD MAP
-  </a>&nbsp;&nbsp; • &nbsp;&nbsp;
-  <a
     href="#screens"
   >
     SCREENS
@@ -172,10 +167,6 @@ Knowing Next.js, understanding SPA, SSR and SSG, creating a React application wi
 </div>
 <br /><br /><br />
 
-## **ROAD MAP**
-
-<br
-  />
 
 ## 📸 **SCREENS**
 

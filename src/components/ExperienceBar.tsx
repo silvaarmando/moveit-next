@@ -17,5 +17,5 @@ export function ExperienceBar() {
       </div>
       <span> 600 xp </span>
     </header>
-  )
+  );
 }

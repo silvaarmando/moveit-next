@@ -1,3 +1,4 @@
+import { CompletedChallenges } from "../components/CompetedChallenges";
 import { ExperienceBar } from "../components/ExperienceBar";
 import { Profile } from "../components/Profile";
 
@@ -13,6 +14,7 @@ export default function Home() {
       <section>
         <div>
           <Profile />
+          <CompletedChallenges />
         </div>
         <div>
 
