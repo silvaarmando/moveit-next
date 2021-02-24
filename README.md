@@ -73,7 +73,7 @@ Knowing Next.js, understanding SPA, SSR and SSG, creating a React application wi
 <p align="center">The technologies used until then in the construction of the project:</p>
 
 <div align="center">
-  <code>
+  <span>
     <a
       href="https://nodejs.org/en/"
     >
@@ -84,8 +84,8 @@ Knowing Next.js, understanding SPA, SSR and SSG, creating a React application wi
         alt="Logo do Node.js"  
       >
     </a>
-  </code>&nbsp;
-  <code>
+  </span>&nbsp;
+  <span>
     <a
       href="https://pt-br.reactjs.org/"
     >
@@ -96,8 +96,8 @@ Knowing Next.js, understanding SPA, SSR and SSG, creating a React application wi
         alt="Logo do React"  
       >
     </a>
-  </code>&nbsp;
-  <code>
+  </span>&nbsp;
+  <span>
     <a
       href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
     >
@@ -108,8 +108,8 @@ Knowing Next.js, understanding SPA, SSR and SSG, creating a React application wi
         alt="Logo do JavaScript"  
       >
     </a>
-  </code>&nbsp;
-  <code>
+  </span>&nbsp;
+  <span>
     <a
       href="https://css-tricks.com/"
     >
@@ -120,8 +120,8 @@ Knowing Next.js, understanding SPA, SSR and SSG, creating a React application wi
         alt="Logo do CSS"  
       >
     </a>
-  </code>&nbsp;
-  <code>
+  </span>&nbsp;
+  <span>
     <a
       href="https://code.visualstudio.com/"
     >
@@ -132,8 +132,8 @@ Knowing Next.js, understanding SPA, SSR and SSG, creating a React application wi
         alt="Logo do VSCode"  
       >
     </a>
-  </code>&nbsp;
-  <code>
+  </span>&nbsp;
+  <span>
     <a
       href="https://yarnpkg.com/"
     >
@@ -144,8 +144,8 @@ Knowing Next.js, understanding SPA, SSR and SSG, creating a React application wi
         alt="Logo do Yarn"  
       >
     </a>
-  </code>&nbsp;
-  <code>
+  </span>&nbsp;
+  <span>
     <a
       href="https://www.typescriptlang.org/"
     >
@@ -156,8 +156,8 @@ Knowing Next.js, understanding SPA, SSR and SSG, creating a React application wi
         alt="Logo do TypeScript"  
       >
     </a>
-  </code>&nbsp;
-  <code>
+  </span>&nbsp;
+  <span>
     <a
       href="https://nextjs.org/"
     >
@@ -168,7 +168,7 @@ Knowing Next.js, understanding SPA, SSR and SSG, creating a React application wi
         alt="Logo do Next.js"  
       >
     </a>
-  </code>
+  </span>
 </div>
 <br /><br /><br />
 
