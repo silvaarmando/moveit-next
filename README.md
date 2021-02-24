@@ -3,7 +3,7 @@
 <p
   align="center"
 >
-  Project created with React.js with the Rocketseat community of BootCamp Next Level Week The application aims to move and exercise the body when we spend a lot of time in front of the screen, the system works with gamified challenges to make the application more fun and dynamic.
+  Project created with React.js with the Rocketseat community of BootCamp Next Level Week. The application aims to move and exercise the body when we spend a lot of time in front of the screen, the system works with gamified challenges to make the application more fun and dynamic.
 </p>
 
 <h4
@@ -60,10 +60,10 @@
 
 The technologies used until then in the construction of the project:
 
-- [yarn](https://yarnpkg.com/)
+- [Yarn](https://yarnpkg.com/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## <img src="https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/octocat-github-emojipedia.png" width="30px" height="30px"> **ABOUT ME**
+## <img src="https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/neckbeard-github-emojipedia.png" width="25px" height="25px"> **ABOUT ME**

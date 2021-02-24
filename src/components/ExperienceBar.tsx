@@ -1,7 +1,9 @@
+import styles from '../styles/components/ExperienceBar.module.css'
+
 export function ExperienceBar() {
   return (
     <header 
-      className="experience-bar"
+      className={ styles.experienceBar }
     >
       <span> 0 xp </span>
       <div>
@@ -9,7 +11,7 @@ export function ExperienceBar() {
           style={{ width: '50%' }}
         />
         <span 
-          className="current-experience"
+          className={ styles.currentExperience }
           style={{ left: '50%' }}
         >300 xp</span>
       </div>
