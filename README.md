@@ -8,11 +8,7 @@
   />
 </h1>
 
-<p
-  align="center"
->
-  Project created with React.js, Next.js and TypeScript in BootCamp Next Level Week of the Rocketseat community. The application aims to move and exercise the body when we spend a lot of time in front of the screen, the system works with gamified challenges to make the application more fun and dynamic.
-</p>
+  Project created with React.js, Next.js and TypeScript in BootCamp **[Next Level Week](https://nextlevelweek.com/)** of the  **[Rocketseat Community](https://github.com/rocketseat)** during February 22 to 28, 2021, with instructor **[Diego Fernandez](https://github.com/diego3g)**. The application aims to move and exercise the body when we spend a lot of time in front of the screen, the system works with gamified challenges to make the application more fun and dynamic.
 
 <h4
   align="center"
@@ -27,17 +23,17 @@
     href="#building"
   >
     BUILDING THE PROJECT
-  </a>&nbsp;&nbsp; • &nbsp;&nbsp;
+  </a>&nbsp;&nbsp; | &nbsp;&nbsp;
   <a
     href="#tech"
   >
     TECHS
-  </a>&nbsp;&nbsp; • &nbsp;&nbsp;
+  </a>&nbsp;&nbsp; | &nbsp;&nbsp;
   <a
     href="#screens"
   >
     SCREENS
-  </a>&nbsp;&nbsp; • &nbsp;&nbsp;
+  </a>&nbsp;&nbsp; | &nbsp;&nbsp;
   <a
     href="#author"
   >
@@ -51,13 +47,21 @@
 
 - [x] First Class - Towards the Next Level
 
+<p
+  align="capitalize"
+>
 Project presentation, how APIS works, initial concepts, React fundamentals such as Components, Properties and Status, external source configuration, global styling and creation of the ExperienceBar component.
+</p>
 
 <br>
 
 - [ ] Secont Class - Unraveling Next.js
 
+<p
+  align="capitalize"
+>
 Knowing Next.js, understanding SPA, SSR and SSG, creating a React application with Next.js, migrating our project, reviewing the project structure.
+</p>
 
 <br />
 
@@ -166,7 +170,6 @@ Knowing Next.js, understanding SPA, SSR and SSG, creating a React application wi
   </span>
 </div>
 <br /><br /><br />
-
 
 ## 📸 **SCREENS**
 
