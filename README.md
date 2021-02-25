@@ -75,7 +75,7 @@ Knowing Next.js, understanding SPA, SSR and SSG, and when to use certain technol
 
 <br />
 
-## 🛠 **Techs**
+## 🛠 **Technologies**
 
 <br />
 
