@@ -20,7 +20,6 @@
   align="center"
 >
   <img
-    width="550px"
     src="./screens/mac-book-pro-13.svg"
     alt="Imagem Representando a Aplicação em uma tela de laptop"
   >
