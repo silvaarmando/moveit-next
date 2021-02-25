@@ -6,7 +6,7 @@ export function Profile() {
       className={ styles.profileContainer }
     >
       <img
-        src="https://github.com/franciscoarmando63.png"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZTREdQwnwKGcMMvW2mEaF-vEaRykRVBu1A&usqp=CAU"
         alt="Francisco Armando"
       />
 
