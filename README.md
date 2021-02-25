@@ -29,7 +29,7 @@
   align="center"
 >
   <a
-    href="#building"
+    href="#building-the-project"
   >
     BUILDING THE PROJECT
   </a>&nbsp;&nbsp; | &nbsp;&nbsp;
@@ -50,7 +50,7 @@
   </a>
 </p><br />
 
-## 🏃🏻‍♂️💜 **Building the Project**
+## **Building the Project**
 
 <br />
 
@@ -77,11 +77,11 @@ Knowing Next.js, understanding SPA, SSR and SSG, and when to use certain technol
 <p
   align="capitalize"
 >
-Finalization of the CountDown Component and creation of the ChallenteBox Component
+Finalization of the CountDown Component and creation of the ChallenteBox Component, create React Context,
 </p>
 <br />
 
-## 🛠 **Technologies**
+## **Technologies**
 
 <br />
 

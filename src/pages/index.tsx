@@ -14,7 +14,7 @@ export default function Home() {
       className={ styles.container }
     >
       <Head>
-        <title>MOVE.DEV | START</title>
+        <title>Move.dev | START</title>
       </Head>
 
       <ExperienceBar />
