@@ -16,6 +16,16 @@
   🔥 Project under Construction...  🔥
 </h4><br>
 
+<h3
+  align="center"
+>
+  <img
+    width="550px"
+    src="./screens/mac-book-pro-13.svg"
+    alt="Imagem Representando a Aplicação em uma tela de laptop"
+  >
+</h3>
+
 <p
   align="center"
 >
@@ -55,12 +65,12 @@ Project presentation, how APIS works, initial concepts, React fundamentals such 
 
 <br>
 
-- [ ] Secont Class - Unraveling Next.js
+- [x] Secont Class - Unraveling Next.js
 
 <p
   align="capitalize"
 >
-Knowing Next.js, understanding SPA, SSR and SSG, creating a React application with Next.js, migrating our project, reviewing the project structure.
+Knowing Next.js, understanding SPA, SSR and SSG, and when to use certain technology, creating a React application with Next.js, migrating our project, reviewing the project structure. Creating Profile components, CompletedChallenges CountDown and hooking the CountDown component.
 </p>
 
 <br />
