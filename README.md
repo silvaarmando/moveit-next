@@ -2,9 +2,9 @@
   align="center"
 >
   <img
-    width="170px"
-    height="100px"
-    src="./screens/logo-full.svg"
+    width="228px"
+    height="114px"
+    src="./screens/logo-moveit-react.png"
   />
 </h1>
 
@@ -77,7 +77,7 @@ Knowing Next.js, understanding SPA, SSR and SSG, and when to use certain technol
 <p
   align="capitalize"
 >
-Finalization of the CountDown Component and creation of the ChallenteBox Component, create React Context, create challenge context.
+Finalization of the CountDown Component and creation of the ChallenteBox Component, creation React Context, creation challenge context.
 </p>
 <br />
 
