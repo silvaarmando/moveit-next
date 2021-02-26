@@ -72,12 +72,12 @@ Project presentation, how APIS works, initial concepts, React fundamentals such 
 Knowing Next.js, understanding SPA, SSR and SSG, and when to use certain technology, creating a React application with Next.js, migrating our project, reviewing the project structure. Creating Profile components, CompletedChallenges CountDown and hooking the CountDown component.
 </p>
 
-- [ ] Third Class - Context and Components
+- [x] Third Class - Context and Components
 
 <p
   align="capitalize"
 >
-Finalization of the CountDown Component and creation of the ChallenteBox Component, create React Context,
+Finalization of the CountDown Component and creation of the ChallenteBox Component, create React Context, create challenge context.
 </p>
 <br />
 
