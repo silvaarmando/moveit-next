@@ -4,7 +4,7 @@
   <img
     width="228px"
     height="114px"
-    src="./screens/logo-moveit-react.png"
+    src="./screens/logo-full.svg"
   />
 </h1>
 
@@ -26,29 +26,62 @@
     alt="Imagem Representando a Aplicação em uma tela de laptop"
   >
 </h3>
-
 <p
   align="center"
 >
   <a
     href="#building-the-project"
   >
-    BUILDING THE PROJECT
-  </a>&nbsp;&nbsp; | &nbsp;&nbsp;
+    <img
+      width="180px"
+      src="./screens/building-the-project.svg"
+      alt="building project"
+    />
+  </a>&nbsp;&nbsp;&nbsp;
   <a
-    href="#tech"
+    href="#layout"
   >
-    TECHS
-  </a>&nbsp;&nbsp; | &nbsp;&nbsp;
+    <img
+      width="65px"
+      src="./screens/layout.svg"
+      alt="layout"
+    />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a
+    href="#roadmap"
+  >
+    <img
+      width="90px"
+      src="./screens/road-map.svg"
+      alt="roadmap"
+    />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a
+    href="#technologies"
+  >
+    <img
+      width="125px"
+      src="./screens/technologies.svg"
+      alt="roadmap"
+    />
+  </a>&nbsp;&nbsp;&nbsp;
   <a
     href="#screens"
   >
-    SCREENS
-  </a>&nbsp;&nbsp; | &nbsp;&nbsp;
+    <img
+      width="75px"
+      src="./screens/screens.svg"
+      alt="screens"
+    />
+  </a>&nbsp;&nbsp;&nbsp;
   <a
-    href="#author"
+    href="#about-me"
   >
-    ABOUT ME
+    <img
+      width="90px"
+      src="./screens/about-me.svg"
+      alt="about me"
+    />
   </a>
 </p><br />
 
@@ -56,7 +89,7 @@
 
 <br />
 
-- [x] First Class - Towards the Next Level
+:white_check_mark: First Class - Towards the Next Level
 
 <p
   align="capitalize"
@@ -66,7 +99,7 @@ Project presentation, how APIS works, initial concepts, React fundamentals such 
 
 <br>
 
-- [x] Secont Class - Unraveling Next.js
+:white_check_mark: Secont Class - Unraveling Next.js
 
 <p
   align="capitalize"
@@ -74,7 +107,7 @@ Project presentation, how APIS works, initial concepts, React fundamentals such 
 Knowing Next.js, understanding SPA, SSR and SSG, and when to use certain technology, creating a React application with Next.js, migrating our project, reviewing the project structure. Creating Profile components, CompletedChallenges CountDown and hooking the CountDown component.
 </p>
 
-- [x] Third Class - Context and Components
+:white_check_mark: Third Class - Context and Components
 
 <p
   align="capitalize"
@@ -82,6 +115,27 @@ Knowing Next.js, understanding SPA, SSR and SSG, and when to use certain technol
 Finalization of the CountDown Component and creation of the ChallenteBox Component, creation React Context, creation challenge context.
 </p>
 <br />
+
+:white_check_mark: Fourth Class - Improving the usability of the Application
+
+<p
+  align="capitalize"
+>
+Structure Leveling and ...
+</p>
+<br />
+
+## **Layout**
+
+<br>
+<h3> To access the original layout of this project, access the link below: </h3>
+<br>
+
+<https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate>
+
+<br>
+(I don't know how long Rocketseat will keep this layout available)
+<br><br>
 
 ## **Technologies**
 
@@ -189,9 +243,9 @@ Finalization of the CountDown Component and creation of the ChallenteBox Compone
 </div>
 <br /><br /><br />
 
-## 📸 **SCREENS**
+## **SCREENS**
 
 <br
   />
 
-## <img src="https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/neckbeard-github-emojipedia.png" width="25px" height="25px"> **ABOUT ME**
+## **ABOUT ME**
