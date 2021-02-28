@@ -166,7 +166,7 @@ Structure Leveling, Web Notification and playing an audio in the challenge.
 <p
   align="capitalize"
 >
-Learning opportunities
+Learning opportunities, Storage via Cookies, Modal Level UP and Appllication Deploy.
 </p>
 <br />
 
