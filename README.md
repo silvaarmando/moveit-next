@@ -7,11 +7,8 @@
     src="./screens/logo-full.svg"
   />
 </h1>
-<p
-  align="center"
->
+
   Project created with React.js, Next.js and TypeScript in BootCamp **[Next Level Week](https://nextlevelweek.com/)** of the  **[Rocketseat Community](https://github.com/rocketseat)** during February 22 to 28, 2021, with instructor **[Diego Fernandez](https://github.com/diego3g)**. The application aims to move and exercise the body when we spend a lot of time in front of the screen, the system works with gamified challenges to make the application more fun and dynamic.
-</p>
 
 <h4
   align="center"
