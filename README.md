@@ -161,7 +161,7 @@ Structure Leveling, Web Notification and playing an audio in the challenge.
 </p>
 <br />
 
-:white_check_mark: Thursday Class - Challenges and Deploy
+:white_check_mark: Thursday Class - Challenges and Deploy, Storage via Cookies
 
 <p
   align="capitalize"
