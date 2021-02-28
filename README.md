@@ -44,7 +44,10 @@
 <p
   align="center"
 >
-  <a href="https://moveit-franciscoarmando.vercel.app/">
+  <a
+    target="_blank"
+    href="https://moveit-franciscoarmando.vercel.app/"
+  >
     <img
       width="200px"
       src="./screens/acesse-aqui.svg"
