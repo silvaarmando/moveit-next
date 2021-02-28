@@ -182,14 +182,14 @@ Learning opportunities, Storage via Cookies, Modal Level UP and Appllication Dep
 <br
   />
 
-<h3
-  align="center"
->
-  <video
-    src="video1.mp4"
-  >
-</h3>
+![](./screens/giff2.gif)
 
+<br>
+
+![](./screens/giff3.gif)
+<br>
+
+![](./screens/giff4.gif)
 ## **Layout**
 
 <br>
