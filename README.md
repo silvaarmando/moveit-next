@@ -9,7 +9,38 @@
 </h1>
 
   Project created with React.js, Next.js and TypeScript in BootCamp **[Next Level Week](https://nextlevelweek.com/)** of the  **[Rocketseat Community](https://github.com/rocketseat)** during February 22 to 28, 2021, with instructor **[Diego Fernandez](https://github.com/diego3g)**. The application aims to move and exercise the body when we spend a lot of time in front of the screen, the system works with gamified challenges to make the application more fun and dynamic.
-
+<p
+  align="center"
+>
+  <img
+    alt="GitHub language count"
+    src="https://img.shields.io/github/languages/count/franciscoarmando63/moveit-next?color=%2304D361"
+  >&nbsp;
+  <a
+    href="https://img.shields.io/github/license/franciscoarmando63/moveit-next"
+  >
+    <img
+      src="https://img.shields.io/github/license/franciscoarmando63/moveit-next"
+      alt="License by Project"
+    >
+  </a>&nbsp;
+  <a
+    href="https://img.shields.io/github/stars/franciscoarmando63/moveit-next?style=social"
+  >
+    <img
+      src="https://img.shields.io/github/stars/franciscoarmando63/moveit-next?style=social"
+      alt="stars project Move.it Next"
+    >
+  </a>&nbsp;
+  <a
+    href="https://www.repostatus.org/#wip"
+  >
+    <img
+      src="https://www.repostatus.org/badges/latest/wip.svg"
+      alt="Status do projeto: WIP - O desenvolvimento inicial está em desenvolvimento. Mas logo estará em produção"
+    />
+    </a>  
+</p>
 <h4
   align="center"
 >
@@ -48,15 +79,6 @@
     />
   </a>&nbsp;&nbsp;&nbsp;
   <a
-    href="#roadmap"
-  >
-    <img
-      width="90px"
-      src="./screens/road-map.svg"
-      alt="roadmap"
-    />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a
     href="#technologies"
   >
     <img
@@ -75,6 +97,15 @@
     />
   </a>&nbsp;&nbsp;&nbsp;
   <a
+    href="#roadmap"
+  >
+    <img
+      width="90px"
+      src="./screens/road-map.svg"
+      alt="roadmap"
+    />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a
     href="#about-me"
   >
     <img
@@ -83,13 +114,18 @@
       alt="about me"
     />
   </a>
-</p><br />
+</p>
 
 ## **Building the Project**
+<br>
+<h4
+  align="capitalize"
+>
+Here is a list of what was seen and studied during the fourth edition of Next Level Week
+</h4><br
+>
 
-<br />
-
-:white_check_mark: First Class - Towards the Next Level
+:white_check_mark: First Class - React Basics
 
 <p
   align="capitalize"
@@ -125,6 +161,15 @@ Structure Leveling, Web Notification and playing an audio in the challenge.
 </p>
 <br />
 
+:white_check_mark: Thursday Class - Challenges and Deploy
+
+<p
+  align="capitalize"
+>
+Learning opportunities
+</p>
+<br />
+
 ## **Layout**
 
 <br>
@@ -134,7 +179,7 @@ Structure Leveling, Web Notification and playing an audio in the challenge.
 <https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate>
 
 <br>
-(I don't know how long Rocketseat will keep this layout available)
+(I don't know how long Rocketseat will keep this layout available).
 <br><br>
 
 ## **Technologies**
@@ -243,9 +288,14 @@ Structure Leveling, Web Notification and playing an audio in the challenge.
 </div>
 <br /><br /><br />
 
-## **SCREENS**
+## **Screens**
 
 <br
   />
 
-## **ABOUT ME**
+## **Road map**
+
+<br
+  />
+
+## **About me**
