@@ -76,6 +76,15 @@
     />
   </a>&nbsp;&nbsp;&nbsp;
   <a
+    href="#screens"
+  >
+    <img
+      width="75px"
+      src="./screens/screens.svg"
+      alt="screens"
+    />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a
     href="#layout"
   >
     <img
@@ -91,15 +100,6 @@
       width="125px"
       src="./screens/technologies.svg"
       alt="roadmap"
-    />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a
-    href="#screens"
-  >
-    <img
-      width="75px"
-      src="./screens/screens.svg"
-      alt="screens"
     />
   </a>&nbsp;&nbsp;&nbsp;
   <a
@@ -176,6 +176,19 @@ Structure Leveling, Web Notification and playing an audio in the challenge.
 Learning opportunities, Storage via Cookies, Modal Level UP and Appllication Deploy.
 </p>
 <br />
+
+## **Screens**
+
+<br
+  />
+
+<h3
+  align="center"
+>
+  <video
+    src="video1.mp4"
+  >
+</h3>
 
 ## **Layout**
 
@@ -294,11 +307,6 @@ Learning opportunities, Storage via Cookies, Modal Level UP and Appllication Dep
   </span>
 </div>
 <br /><br /><br />
-
-## **Screens**
-
-<br
-  />
 
 ## **Road map**
 
