@@ -214,7 +214,7 @@ FEATURES
 
 - [ ] Dark mode.
 - [ ] User Registration and Login Functionality.
-- [ ] Application ranking.
+- [ ] Challenges ranking.
 
 ## **Layout**
 
@@ -334,7 +334,7 @@ FEATURES
 </div>
 <br /><br /><br />
 
-## **Road map**
+## **Roadmap**
 
 <br
   />
