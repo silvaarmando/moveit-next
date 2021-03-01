@@ -339,6 +339,8 @@ FEATURES
 <br
   />
 
+### I'll leave a script on how to clone and run the application under development
+
 ### Clone este repositório
 
 $ git clone <https://github.com/franciscoarmando63/moveit-next.git>
