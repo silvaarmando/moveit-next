@@ -181,15 +181,41 @@ Learning opportunities, Storage via Cookies, Modal Level UP and Appllication Dep
 
 <br
   />
+<h3
+  align="center"
+>
+FEATURES
+</h3>
+<h4
+  align="center"
+>
+ Start New Pomodoro
+</h4>
 
 ![](./screens/giff2.gif)
 
-<br>
+<h4
+  align="center"
+>
+ Complete Time Period and Level Up
+</h4>
 
 ![](./screens/giff3.gif)
-<br>
+
+<h4
+  align="center"
+>
+ Cancelar Desafio e Resetar Count Down
+</h4>
 
 ![](./screens/giff4.gif)
+
+<h3>Pending Challenges</h3>
+
+- [ ] Dark mode.
+- [ ] User Registration and Login Functionality.
+- [ ] Application ranking.
+
 ## **Layout**
 
 <br>
@@ -313,4 +339,28 @@ Learning opportunities, Storage via Cookies, Modal Level UP and Appllication Dep
 <br
   />
 
+### Clone este repositório
+
+$ git clone <https://github.com/franciscoarmando63/moveit-next.git>
+
+### Acesse a pasta do projeto no terminal/cmd ou powerhell
+
+$ cd moveit-next
+
+### Vá para a pasta server
+
+$ cd server
+
+### Instale as dependências
+
+$ yarn add .
+
+### Execute a aplicação em modo de desenvolvimento
+
+$ yarn dev
+
+### O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+
+<br
+  />
 ## **About me**
