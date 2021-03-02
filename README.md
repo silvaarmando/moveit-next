@@ -213,8 +213,10 @@ FEATURES
 <h3>Pending Challenges</h3>
 
 - [ ] Dark mode.
+- [ ] Responsive Application
 - [ ] User Registration and Login Functionality.
 - [ ] Challenges ranking.
+- [ ] Mobile Application
 
 ## **Layout**
 
