@@ -16,14 +16,7 @@
     alt="GitHub language count"
     src="https://img.shields.io/github/languages/count/franciscoarmando63/moveit-next?color=%2304D361"
   >&nbsp;
-  <a
-    href="https://img.shields.io/github/license/franciscoarmando63/moveit-next"
-  >
-    <img
-      src="https://img.shields.io/github/license/franciscoarmando63/moveit-next"
-      alt="License by Project"
-    >
-  </a>&nbsp;
+
   <a
     href="https://img.shields.io/github/stars/franciscoarmando63/moveit-next?style=social"
   >
