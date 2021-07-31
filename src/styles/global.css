@@ -27,12 +27,14 @@
 @media(max-width: 720px) {
   html {
     font-size: 87.5%;
+    display: flex;
   }
 }
 
 @media(max-width: 500px) {
   html {
     font-size: 70%;
+    display: flex;
   }
 }
 
