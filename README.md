@@ -192,7 +192,14 @@ FEATURES
  Start New Pomodoro
 </h4>
 
-![](./screens/giff2.gif)
+<h1
+ align="center"
+>
+  <img
+    width="800px"
+    src="./screens/giff2.gif"
+  >
+</h1>
 
 <h4
   align="center"
@@ -200,7 +207,14 @@ FEATURES
  Complete Time Period and Level Up
 </h4>
 
-![](./screens/giff3.gif)
+<h1
+  align="center"
+>
+  <img
+    width="800px"
+    src="./screens/giff3.gif"
+  >
+</h1>
 
 <h4
   align="center"
@@ -208,7 +222,14 @@ FEATURES
  Cancelar Desafio e Resetar Count Down
 </h4>
 
-![](./screens/giff4.gif)
+<h1
+  align="center"
+>
+  <img
+    width="800px"
+    src="./screens/giff4.gif"
+  >
+</h1>
 
 <h3>Pending Challenges</h3>
 
